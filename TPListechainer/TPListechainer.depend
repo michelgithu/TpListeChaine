@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1673352363 source:c:\users\pc\desktop\tplistechainer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nombres.h"
+	"nombres.c"
+
+1672931455 c:\users\pc\desktop\tplistechainer\nombres.h
+
+1673354461 c:\users\pc\desktop\tplistechainer\nombres.c
+	"nombres.h"
+
+1673426278 source:c:\users\kossivi  michel\documents\c_pojects\cprojectsavancés\tplistechainer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nombres.h"
+	"nombres.c"
+
+1672931456 c:\users\kossivi  michel\documents\c_pojects\cprojectsavancés\tplistechainer\nombres.h
+
+1673426414 c:\users\kossivi  michel\documents\c_pojects\cprojectsavancés\tplistechainer\nombres.c
+	"nombres.h"
+
